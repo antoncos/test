@@ -7,3 +7,4 @@
 - Генерация ключа приложения: `php artisan key:generate`
 - `docker-compose up`
 - `php artisan migrate`
+- `npm run build`
